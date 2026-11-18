@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="32" viewBox="0 0 88 32" role="img" aria-labelledby="title">
+  <title id="title">简体中文</title>
+  <style>
+    svg { --fill: #edf0fb; --text: #3e4a86; --border: #dce3f4; }
+    @media (prefers-color-scheme: dark) {
+      svg { --fill: #242e47; --text: #dae4ff; --border: #40506f; }
+    }
+  </style>
+  <rect x=".5" y=".5" width="87" height="31" rx="15.5" fill="var(--fill)" stroke="var(--border)"/>
+  <text x="44" y="16" text-anchor="middle" dominant-baseline="central" fill="var(--text)" font-family="system-ui, -apple-system, 'Segoe UI', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="13" font-weight="650">简体中文</text>
+</svg>
